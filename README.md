@@ -47,3 +47,5 @@ In create an API:
 - Create file prisma client => access google "next js with prisma client"
 
 Using the Radix UI library
+
+Access: react-simplemede editor and instal the kapage npm install --save react-simplemde-editor easymde => to create the textarea
