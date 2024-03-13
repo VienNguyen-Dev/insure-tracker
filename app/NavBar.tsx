@@ -9,7 +9,7 @@ const NavBar = () => {
   const currentPath = usePathname();
   const link = [
     { label: "Dashboard", href: "/" },
-    { label: "Issure", href: "/issure" },
+    { label: "Issue", href: "/issue" },
   ];
   return (
     <nav className=" flex space-x-6 border-b mb-5 mx-6 h-14 items-center ">
