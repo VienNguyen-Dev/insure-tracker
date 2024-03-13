@@ -36,7 +36,12 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 when create model with Prisma connect to MySQL:
-npx i prisma
+npm i prisma
 npx prisma init
 npx prisma format
 npm prisma mugrate dev => dong lenh nay de ket noi pisma den MySQl
+
+In create an API:
+
+- install zod: npm i zod => de kiem tra input dau vao
+- Create file prisma client => access google "next js with prisma client"
