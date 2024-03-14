@@ -50,3 +50,5 @@ Using the Radix UI library
 
 Access: react-simplemede editor and instal the kapage npm install --save react-simplemde-editor easymde => to create the textarea
 Handling submit form with react hook form
+
+- We use refator to optomized our code
